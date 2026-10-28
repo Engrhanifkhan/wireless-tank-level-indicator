@@ -14,7 +14,7 @@ An intelligent water resource automation platform designed to prevent dry-runnin
 - **Engineer:** Engr. Hanif Ullah (Engr. Hanif Khan)
 - **Specialization:** Hardware & Embedded Systems Engineer
 - **Institution:** Centre of Intelligent Systems & Network Research (CISNR), UET Peshawar
-- **WhatsApp / Phone:** [+92 311 8221686](https://wa.me/923118221686)
+- **WhatsApp / Phone:** [+92 315 9915537](https://wa.me/923159915537)
 - **LinkedIn:** [Engr. Hanif Khan](https://www.linkedin.com/in/engr-hanif-khan-628a04259/)
 - **Email:** [hanifullahshams@gmail.com](mailto:hanifullahshams@gmail.com)
 
@@ -114,6 +114,6 @@ Open `firmware/water_tank_monitor/config.h` and enter your network credentials:
 ## 📬 Contact & Commercial Inquiries
 
 For industrial automation, custom PCB design, or firmware licensing:
-- **Engr. Hanif Ullah** — [+92 311 8221686](https://wa.me/923118221686)
+- **Engr. Hanif Ullah** — [+92 315 9915537](https://wa.me/923159915537)
 - **LinkedIn:** [linkedin.com/in/engr-hanif-khan-628a04259](https://www.linkedin.com/in/engr-hanif-khan-628a04259/)
 - **Email:** [hanifullahshams@gmail.com](mailto:hanifullahshams@gmail.com)
